@@ -11,7 +11,7 @@ function appendDom() {
     index++;
     $('.container').append('<div class="newDiv">' +
                             '<p>'+index+'</p>' +
-                            '<button class="swap">Swap</button>'+
+                            '<button class="swap">Swap</button>' +
                             '<button class="delete">Delete</button>'+
                             '</div>');
     $('.swap').on("click", function(){
