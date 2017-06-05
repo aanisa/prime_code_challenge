@@ -1,7 +1,6 @@
 # Prime Digital Academy - Weekly Code Challenge
 
 Time alloted: 2 hours
-Completed: 30 miuntes
 
 ### Follow the steps below to complete the code challenge:
 
